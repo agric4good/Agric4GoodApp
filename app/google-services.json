@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "688646106956",
+    "firebase_url": "https://agric4good-default-rtdb.firebaseio.com",
+    "project_id": "agric4good",
+    "storage_bucket": "agric4good.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688646106956:android:b316bb15796685e07b69e9",
+        "android_client_info": {
+          "package_name": "com.bumie.agric4good"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688646106956-thbdd2tc3abccr2g6iskn77jg21rud0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bumie.agric4good",
+            "certificate_hash": "ae907c44bc6b0581cbfa8d073c048efbdd3a12d0"
+          }
+        },
+        {
+          "client_id": "688646106956-t9s3ebsggagbrjo2ujnr88a839skuj05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr0tmmCKclzChudJXa62euEB9O2sOKN7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688646106956-t9s3ebsggagbrjo2ujnr88a839skuj05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
