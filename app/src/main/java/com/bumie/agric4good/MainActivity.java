@@ -30,9 +30,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         loginAuth = FirebaseAuth.getInstance();
-        if (loginAuth.getCurrentUser().getUid() != null) {
-            startActivity(new Intent(MainActivity.this, UserSelection.class));
-        }
+
 
         email2 = (EditText) findViewById(R.id.email);
         password2 = findViewById(R.id.password);
