@@ -5,6 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".LoginFragment">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
 <androidx.constraintlayout.widget.ConstraintLayout
     android:layout_width="match_parent"
@@ -13,7 +16,8 @@
     <ImageView
         android:id="@+id/imageView5"
         android:layout_width="wrap_content"
-        android:layout_height="350dp"
+        android:layout_height="250dp"
+        android:scaleType="centerCrop"
         android:src="@drawable/fd"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -73,6 +77,6 @@
         app:layout_constraintTop_toBottomOf="@id/progressBar"
         tools:text="Connection status" />
 </androidx.constraintlayout.widget.ConstraintLayout>
-
+    </ScrollView>
 
 </FrameLayout>
