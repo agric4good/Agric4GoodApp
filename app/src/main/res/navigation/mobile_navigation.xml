@@ -22,4 +22,9 @@
         android:name="com.bumie.agric4good.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <activity
+        android:id="@+id/nav_chat"
+        android:name="com.bumie.agric4good.Chat"
+        android:label="activity_chat"
+        tools:layout="@layout/activity_chat" />
 </navigation>

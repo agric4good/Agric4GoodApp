@@ -16,5 +16,29 @@
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/nav_cus"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Customer" />
+        <item
+            android:id="@+id/nav_m"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="MarketPlace" />
+        <item
+            android:id="@+id/nav_f"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Forum" />
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Chat" />
+        <item
+            android:id="@+id/nav_a"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_r"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Report" />
     </group>
 </menu>

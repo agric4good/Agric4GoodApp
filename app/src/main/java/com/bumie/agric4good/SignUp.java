@@ -154,7 +154,7 @@ public class SignUp extends AppCompatActivity {
         FirebaseDatabase.getInstance().getReference().child("all_users")
                 .child(firebaseUser.getUid()).setValue(user);
         Toast.makeText(SignUp.this, "Succesfully added !", Toast.LENGTH_SHORT).show();
-        startActivity(new Intent(SignUp.this, MainActivity.class));
+        startActivity(new Intent(SignUp.this, Dashboard.class));
 
     }
 }
