@@ -33,3 +33,5 @@ The app also uses AI to improve recommendations to user based on location .
 The app couldn't be completed because of the timeline given although the prototype is complete. So, we could only implement the welcome page, login/signup and the menu.
 
 You can find the app here. https://drive.google.com/file/d/1wJF9k2t5w-xOwuGDIJ4XdDwDZ0ZAb9yD/view?usp=sharing
+
+Here's a demo of the Voyage API being used https://drive.google.com/file/d/1fvBR_etOe-o8JMWLcrFnno9hE--u55Ua/view?usp=sharing
